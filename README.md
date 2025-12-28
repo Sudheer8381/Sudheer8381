@@ -14,9 +14,10 @@
 
 # Projects
 -  CRUD Operation using Spring Boot
--  AgriTrade (Full Stack Project)
+-  CyberTrace (Full Stack Java Project)
+-  AgriTrade (Full Stack Java Project)
 -  Portfolio Website
--  Tic Tac Toe Game
+-  Tic Tac Toe Game (JavaScript)
 
 # Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/sudheer-verma-63b388307)
