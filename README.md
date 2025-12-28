@@ -8,7 +8,7 @@
 
 # Tech Stack
 - Java | Spring Boot
-- HTML | CSS | JavaScript
+- HTML | CSS | Bootstrap | JavaScript
 - MySQL | SQL
 - Git | GitHub
 
