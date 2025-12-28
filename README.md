@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sudheer Verma 
 
-<!--
-**Sudheer8381/Sudheer8381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- Full Stack Java Developer (Fresher)
+- Skilled in Java, Spring Boot, MySQL
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Passionate about backend development and APIs
 
-Here are some ideas to get you started:
+# Tech Stack
+- Java | Spring Boot
+- HTML | CSS | JavaScript
+- MySQL | SQL
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+-  CRUD Operation using Spring Boot
+-  AgriTrade (Full Stack Project)
+-  Portfolio Website
+-  Tic Tac Toe Game
+
+# Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/sudheer-verma-63b388307)
+- Email: (sudheerverma8183@gmail.com)
