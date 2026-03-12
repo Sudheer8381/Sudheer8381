@@ -2,9 +2,10 @@
 
 # About Me
 - Full Stack Java Developer (Fresher)
-- Skilled in Java, Spring Boot, MySQL
+- Skilled in Java, Spring Boot
 - Frontend: HTML, CSS, JavaScript, Bootstrap
-- Database: MySQL, SQL 
+- Database: MySQL, SQL
+- Development Tools: Git, GitHub, VS Code, Postmna, IntelliJ, IDEA, STS
 - Passionate about backend development and APIs
 
 # Tech Stack
