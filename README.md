@@ -4,6 +4,7 @@
 - Full Stack Java Developer (Fresher)
 - Skilled in Java, Spring Boot, MySQL
 - Frontend: HTML, CSS, JavaScript, Bootstrap
+- Database: MySQL, SQL 
 - Passionate about backend development and APIs
 
 # Tech Stack
